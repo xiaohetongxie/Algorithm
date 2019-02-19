@@ -230,12 +230,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548842984211</updated>
       <workItem from="1548842987223" duration="24000" />
-      <workItem from="1548843165850" duration="16571000" />
+      <workItem from="1548843165850" duration="16817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16595000" />
+    <option name="totallyTimeSpent" value="16841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="23" width="1408" height="809" extended-state="0" />
@@ -251,10 +251,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2710674" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.619382" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.619382" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18081991" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18081991" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24963397" />
